@@ -7,7 +7,7 @@ This is a library management system built with the MEAN (MongoDB, Express, Angul
 1. Clone the repository.
 
     ```
-    git clone git@github.com:mongodb-developer/library-management-system.git library
+    git clone https://Sumitb09/library-management-system.git
     ```
 
 1. Install the dependencies in the root level of the project.
